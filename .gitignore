@@ -1,0 +1,13 @@
+# Build files
+build
+
+# Installed Node modules
+node_modules
+
+# MacOS system files
+.DS_Store
+
+# Developer files
+.prompt
+.env
+.waterfall

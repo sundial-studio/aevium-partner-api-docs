@@ -1,0 +1,23 @@
+{
+  "name": "aevium-partner-api-docs",
+  "version": "0.1.0",
+  "description": "A resource for partner integration with Aevium",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeviumeducation/aevium-partner-api-docs.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/aeviumeducation/aevium-partner-api-docs/issues"
+  },
+  "homepage": "https://github.com/aeviumeducation/aevium-partner-api-docs#readme",
+  "devDependencies": {
+    "@types/node": "^20.8.9",
+    "dotenv": "^16.3.1",
+    "typescript": "^5.2.2"
+  }
+}
